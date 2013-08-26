@@ -1,5 +1,7 @@
 UNMSM-FISI-AlgoritmicaI
 =======================
+El material incluye ejemplos prácticos para introducirse en la programación. Incluye planteamiento del problema,
+solución en pseudocódigo, solución en lenguaje C++.
 
 Material para el curso de Algorítmica I
 =======================================
